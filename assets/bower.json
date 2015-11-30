@@ -1,0 +1,10 @@
+{
+  "name": "protocrane",
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-moment": "~0.10.3",
+    "moment": "~2.10.6",
+    "angular-route": "~1.4.8",
+    "angular-mocks": "~1.4.8"
+  }
+}
